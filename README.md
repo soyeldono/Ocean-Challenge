@@ -11,12 +11,9 @@ Equipo:
 ## Tabla de contenido
 1. [Introducción](#introduction)
 2. [Fondo Marino](#sea_bottom)
-    1. [Resultados](#show_final_results)
-    2. [Descargar y Ejectuar](#download_and_execute)
-    3. [Modelo](#model_sea_bottom)
-    4. [Resultados](#show_results)
-3. [Clasificar Elementos](#ocean_chalenge)
-    (pendiente)
+    1. [Descargar y Ejectuar](#download_and_execute)
+    2. [Modelo](#model_sea_bottom)
+    3. [Resultados](#show_results)
 
 
 ## Introducción <a name="introduction"></a>
@@ -28,11 +25,7 @@ Para ello se va a hacer uso de tecnicas de clasificación de imagenes usando red
 
 **Todos los archivos relacionados a este reto se encuentran en la carpeta 'sea bottom'**
 
-Este reto consiste en clasificar el tipo de suelo en el cual se encuentra el submarino, para ello se usarán las imagenes en la carpeta 'sea bottom/ocean_v2'. 
-
-### Resultados <a name="show_final_results"></a>
-
-(poner imagen de resultados aqui)
+Este reto consiste en clasificar el tipo de suelo en el cual se encuentra el submarino, para ello se usarán las imagenes en la carpeta 'ocean_v2'. 
 
 ### Descargar y Ejecutar <a name="download_and_execute"></a>
 
@@ -42,10 +35,10 @@ Este reto consiste en clasificar el tipo de suelo en el cual se encuentra el sub
 - [matplotlib](https://matplotlib.org/stable/users/installing.html)
 - [PIL](https://pillow.readthedocs.io/en/stable/installation.html)
 
-2. Descarga el repositorio y acceda a la carpeta 'sea bottom'
+2. Descarga el repositorio y el dataset
 ```
 git clone https://github.com/soyeldono/Ocean-Challenge.git
-cd "sea bottom"
+https://drive.google.com/file/d/1Sl0zoXaovi_vgs3eAdDBhyT2wmZOLHFo/view
 ``` 
 
 3. Abrir y Ejecutar todas las celdas del notebook llamado 'sea_bottom.ipynb'
