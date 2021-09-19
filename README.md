@@ -33,7 +33,7 @@ Para ello se va a hacer uso de tecnicas de clasificación de imagenes usando red
 
 ## Fondo Marino <a name="sea_bottom"></a>
 
-*Todos los archivos relacionados a este reto se encuentran en la carpeta 'sea bottom'. *
+** Todos los archivos relacionados a este reto se encuentran en la carpeta 'sea bottom' **
 
 Este reto consiste en clasificar el tipo de suelo en el cual se encuentra el submarino, para ello se usarán las imagenes en la carpeta 'ocean_v2'. 
 
@@ -45,3 +45,7 @@ Este reto consiste en clasificar el tipo de suelo en el cual se encuentra el sub
 
 1. Verifica que tengas instalado las librerías:
 - [Pytorch](https://pytorch.org/)
+- [numPy](https://numpy.org/install/)
+- [matplotlib](https://matplotlib.org/stable/users/installing.html)
+- [PIL](https://pillow.readthedocs.io/en/stable/installation.html)
+
