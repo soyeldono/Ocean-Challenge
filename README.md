@@ -2,7 +2,16 @@
 
 Este repositorio presentaremos nuestro modelo para calsificar tipos de suelos y objetos en el fondo del oceano por parte del concurso de *Datathon Gran Canaria 2021*.
 
-(insertar imagen de resultados aqui)
+Equipo:
+
+- Donovan Mosheh Ramirez Trejo
+- Participante 2
+- Participante 3
+.
+.
+.
+
+(insertar imagen de resultados finales aqui)
 
 ## Tabla de contenido
 1. [Introducción](#introduction)
@@ -31,3 +40,8 @@ Este reto consiste en clasificar el tipo de suelo en el cual se encuentra el sub
 ### Resultados <a name="show_final_results"></a>
 
 (poner imagen de resultados aqui)
+
+### Descargar y Ejecutar <a name="download_and_execute"></a>
+
+1. Verifica que tengas instalado las librerías:
+- [Pytorch](https://pytorch.org/)
