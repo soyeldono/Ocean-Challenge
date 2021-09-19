@@ -33,12 +33,7 @@ Este reto consiste en clasificar el tipo de suelo en el cual se encuentra el sub
 - [matplotlib](https://matplotlib.org/stable/users/installing.html)
 - [PIL](https://pillow.readthedocs.io/en/stable/installation.html)
 
-2. Descarga la carpeta del google drive
-```
-https://drive.google.com/drive/folders/1Y-j5Phpnp44PmqqlM3N5_RUgCjjKxyjQ?usp=sharing
-``` 
-
-3. Abrir y Ejecutar todas las celdas del notebook llamado 'sea_bottom.ipynb'
+2. Abrir y Ejecutar todas las celdas del notebook llamado 'sea_bottom.ipynb'
 
 ### Modelo <a name="model_sea_bottom"></a>
 
