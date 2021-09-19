@@ -33,10 +33,9 @@ Este reto consiste en clasificar el tipo de suelo en el cual se encuentra el sub
 - [matplotlib](https://matplotlib.org/stable/users/installing.html)
 - [PIL](https://pillow.readthedocs.io/en/stable/installation.html)
 
-2. Descarga el repositorio y el dataset
+2. Descarga la carpeta del google drive
 ```
-git clone https://github.com/soyeldono/Ocean-Challenge.git
-https://drive.google.com/file/d/1Sl0zoXaovi_vgs3eAdDBhyT2wmZOLHFo/view
+a
 ``` 
 
 3. Abrir y Ejecutar todas las celdas del notebook llamado 'sea_bottom.ipynb'
