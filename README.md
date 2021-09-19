@@ -23,8 +23,6 @@ Para ello se va a hacer uso de tecnicas de clasificación de imagenes usando red
 
 ## Fondo Marino <a name="sea_bottom"></a>
 
-**Todos los archivos relacionados a este reto se encuentran en la carpeta 'sea bottom'**
-
 Este reto consiste en clasificar el tipo de suelo en el cual se encuentra el submarino, para ello se usarán las imagenes en la carpeta 'ocean_v2'. 
 
 ### Descargar y Ejecutar <a name="download_and_execute"></a>
@@ -42,6 +40,7 @@ https://drive.google.com/file/d/1Sl0zoXaovi_vgs3eAdDBhyT2wmZOLHFo/view
 ``` 
 
 3. Abrir y Ejecutar todas las celdas del notebook llamado 'sea_bottom.ipynb'
+(Nota: Asegurate de descargar el dataset en la misma carpeta donde se encuentra el notebook 'sea_bottom.ipynb')
 
 ### Modelo <a name="model_sea_bottom"></a>
 
