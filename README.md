@@ -18,7 +18,7 @@ Equipo:
 
 ## Introducción <a name="introduction"></a>
 
-Dadas unas imagenes tomadas por un submarino la meta es consegur clasificar el *suelo* del oceano y los *obejtos* que se muestran (ya sea algas, rocas, basura, etc...).
+Dadas unas imagenes tomadas por un submarino la meta es consegur clasificar el *suelo* del oceano y los *objetos* que se muestran (ya sea algas, rocas, basura, etc...).
 Para ello se va a hacer uso de tecnicas de clasificación de imagenes usando redes neuronales convolucionales.
 
 ## Fondo Marino <a name="sea_bottom"></a>
