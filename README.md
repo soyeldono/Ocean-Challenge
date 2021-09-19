@@ -44,7 +44,7 @@ Este reto consiste en clasificar el tipo de suelo en el cual se encuentra el sub
 ### Descargar y Ejecutar <a name="download_and_execute"></a>
 
 1. Verifica que tengas instalado las librerías:
-- [Pytorch](https://pytorch.org/)
+- [Pytorch (con cuda)](https://pytorch.org/)
 - [numPy](https://numpy.org/install/)
 - [matplotlib](https://matplotlib.org/stable/users/installing.html)
 - [PIL](https://pillow.readthedocs.io/en/stable/installation.html)
@@ -54,3 +54,8 @@ Este reto consiste en clasificar el tipo de suelo en el cual se encuentra el sub
 git clone https://github.com/soyeldono/Ocean-Challenge.git
 cd "sea bottom"
 ``` 
+
+3. Abrir y Ejecutar todas las celdas del arhivo jupyter llamado 'sea_bottom.ipynb'
+
+### Desarrollo y Solución del problema <a name="dev_and_solution"></a>
+
