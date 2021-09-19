@@ -5,13 +5,8 @@ Este repositorio presentaremos nuestro modelo para calsificar tipos de suelos y 
 Equipo:
 
 - Donovan Mosheh Ramirez Trejo
-- Participante 2
-- Participante 3
-.
-.
-.
+- Sandro Ormeño
 
-(insertar imagen de resultados finales aqui)
 
 ## Tabla de contenido
 1. [Introducción](#introduction)
@@ -60,7 +55,6 @@ cd "sea bottom"
 Para este problema se optó por usar la red neuronal pre-entranda 'ResNet50' para facilitar el aprendizaje de la red neuronal. Junto a la red se decidió usar el optimizador 'Adam' junto a la
 funcion de error 'l1_loss'.
 
-(insertar imagen del modelo)
 
 ### Resultados <a name="show_results"></a>
 
