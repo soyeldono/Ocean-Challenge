@@ -18,15 +18,13 @@ Equipo:
 2. [Fondo Marino](#sea_bottom)
     1. [Resultados](#show_final_results)
     2. [Descargar y Ejectuar](#download_and_execute)
-    3. [Desarrollo y Solución del problema](#dev_and_solution)
-        1. [Procesamiento de Imagenes](#images)
-        2. [Modelo](#model)
-        3. [Resultados](#show_results)
+    3. [Modelo](#model_sea_bottom)
+    4. [Resultados](#show_results)
 3. [Clasificar Elementos](#ocean_chalenge)
     (pendiente)
 
 
-## Introudcción <a name="introduction"></a>
+## Introducción <a name="introduction"></a>
 
 Dadas unas imagenes tomadas por un submarino la meta es consegur clasificar el *suelo* del oceano y los *obejtos* que se muestran (ya sea algas, rocas, basura, etc...).
 Para ello se va a hacer uso de tecnicas de clasificación de imagenes usando redes neuronales convolucionales.
@@ -35,7 +33,7 @@ Para ello se va a hacer uso de tecnicas de clasificación de imagenes usando red
 
 **Todos los archivos relacionados a este reto se encuentran en la carpeta 'sea bottom'**
 
-Este reto consiste en clasificar el tipo de suelo en el cual se encuentra el submarino, para ello se usarán las imagenes en la carpeta 'ocean_v2'. 
+Este reto consiste en clasificar el tipo de suelo en el cual se encuentra el submarino, para ello se usarán las imagenes en la carpeta 'sea bottom/ocean_v2'. 
 
 ### Resultados <a name="show_final_results"></a>
 
@@ -55,7 +53,15 @@ git clone https://github.com/soyeldono/Ocean-Challenge.git
 cd "sea bottom"
 ``` 
 
-3. Abrir y Ejecutar todas las celdas del arhivo jupyter llamado 'sea_bottom.ipynb'
+3. Abrir y Ejecutar todas las celdas del notebook llamado 'sea_bottom.ipynb'
 
-### Desarrollo y Solución del problema <a name="dev_and_solution"></a>
+### Modelo <a name="model_sea_bottom"></a>
 
+Para este problema se optó por usar la red neuronal pre-entranda 'ResNet50' para facilitar el aprendizaje de la red neuronal. Junto a la red se decidió usar el optimizador 'Adam' junto a la
+funcion de error 'l1_loss'.
+
+(insertar imagen del modelo)
+
+### Resultados <a name="show_results"></a>
+
+(insertar grid de imagenes con resultados)
