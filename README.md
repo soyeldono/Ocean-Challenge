@@ -21,3 +21,13 @@ Este repositorio presentaremos nuestro modelo para calsificar tipos de suelos y 
 
 Dadas unas imagenes tomadas por un submarino la meta es consegur clasificar el *suelo* del oceano y los *obejtos* que se muestran (ya sea algas, rocas, basura, etc...).
 Para ello se va a hacer uso de tecnicas de clasificación de imagenes usando redes neuronales convolucionales.
+
+## Fondo Marino <a name="sea_bottom"></a>
+
+*Todos los archivos relacionados a este reto se encuentran en la carpeta 'sea bottom'. *
+
+Este reto consiste en clasificar el tipo de suelo en el cual se encuentra el submarino, para ello se usarán las imagenes en la carpeta 'ocean_v2'. 
+
+### Resultados <a name="show_final_results"></a>
+
+(poner imagen de resultados aqui)
