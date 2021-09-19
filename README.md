@@ -35,11 +35,10 @@ Este reto consiste en clasificar el tipo de suelo en el cual se encuentra el sub
 
 2. Descarga la carpeta del google drive
 ```
-a
+https://drive.google.com/drive/folders/1Y-j5Phpnp44PmqqlM3N5_RUgCjjKxyjQ?usp=sharing
 ``` 
 
 3. Abrir y Ejecutar todas las celdas del notebook llamado 'sea_bottom.ipynb'
-(Nota: Asegurate de descargar el dataset en la misma carpeta donde se encuentra el notebook 'sea_bottom.ipynb')
 
 ### Modelo <a name="model_sea_bottom"></a>
 
