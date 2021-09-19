@@ -64,5 +64,7 @@ funcion de error 'l1_loss'.
 
 ### Resultados <a name="show_results"></a>
 
+Net Prediction / Real
+
 ![result](https://user-images.githubusercontent.com/38016639/133942791-914df2c6-930b-4be0-b01f-a7377afc7d6b.png)
 
